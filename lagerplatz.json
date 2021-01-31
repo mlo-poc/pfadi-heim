@@ -151,19 +151,6 @@
         {
          "columns":8,
          "firstgid":561,
-         "image":"tileset-idkman\\.png",
-         "imageheight":20832,
-         "imagewidth":256,
-         "margin":0,
-         "name":"tileset-idkman\\",
-         "spacing":0,
-         "tilecount":0,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":8,
-         "firstgid":561,
          "image":"fire.png",
          "imageheight":256,
          "imagewidth":256,
