@@ -1,6 +1,12 @@
 body {background-color: rgb(5, 156, 0);
-      background-image: url(https://mlo-poc.github.io/pfadi-heim/lagerplatz.png);
-      font-family: "UbuntuMonoRegular", "Ubuntu Mono", 'courier new', monospace, sans-serif;
-      }
+    background-image: url(https://mlo-poc.github.io/pfadi-heim/lagerplatz.png);
+    font-family: "UbuntuMonoRegular", "Ubuntu Mono", 'courier new', monospace, sans-serif;
+}
 h1 {color: white;
-font-weight: 700;}
+    font-weight: 700;
+}
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
