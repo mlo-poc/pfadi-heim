@@ -30,9 +30,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"jurte2"
+                 "value":"https:\/\/play.workadventu.re\/_\/jurte2\/mlo-poc.github.io\/pfadi-heim\/jurte.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -48,9 +48,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"exitUrl",
                  "type":"string",
-                 "value":"jurte1"
+                 "value":"https:\/\/play.workadventu.re\/_\/jurte1\/mlo-poc.github.io\/pfadi-heim\/jurte.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,7 +68,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/poc.im:9666\/s\/04c719b-Lagerzeitung"
+                 "value":"https:\/\/wbo.ophir.dev\/boards\/POC"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,6 +181,16 @@
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":44,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
