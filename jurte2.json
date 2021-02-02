@@ -3,8 +3,7 @@
     {
      "export":
         {
-         "format":"json",
-         "target":"jurte1.json"
+         "format":"json"
         }
     },
  "height":32,
@@ -51,6 +50,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jurte2"
+                },
+                {
+                 "name":"playAudioLoop",
+                 "type":"string",
+                 "value":"lagerfeuer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
