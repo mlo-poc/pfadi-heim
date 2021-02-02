@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/jurte2\/mlo-poc.github.io\/pfadi-heim\/jurte2.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/mlo-poc.github.io\/pfadi-heim\/jurte2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,7 +50,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/jurte1\/mlo-poc.github.io\/pfadi-heim\/jurte1.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/mlo-poc.github.io\/pfadi-heim\/jurte1.json"
                 }],
          "type":"tilelayer",
          "visible":true,

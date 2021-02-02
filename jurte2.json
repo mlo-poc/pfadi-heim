@@ -20,7 +20,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/jurte2\/mlo-poc.github.io\/pfadi-heim\/lagerplatz.json#jurte2Entry"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/mlo-poc.github.io\/pfadi-heim\/lagerplatz.json#jurte2Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
