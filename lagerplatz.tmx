@@ -399,7 +399,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,286,286,286,286
 </data>
  </layer>
- <layer id="19" name="scriblio" width="100" height="100">
+ <layer id="19" name="scriblio" width="100" height="100" locked="1">
   <properties>
    <property name="openWebsite" value="https://skribbl.io/?lUo7XNg1tu6z"/>
   </properties>
@@ -612,7 +612,7 @@
  </layer>
  <layer id="16" name="aussicht" width="100" height="100" locked="1">
   <properties>
-   <property name="openWebsite" value="https://devtube.dev-wiki.de/videos/embed/c42aa44c-58df-42e7-813a-204fa0628215"/>
+   <property name="openWebsite" value="https://devtube.dev-wiki.de/videos/watch/c42aa44c-58df-42e7-813a-204fa0628215?loop=1&amp;autoplay=1"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

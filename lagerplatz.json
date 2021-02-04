@@ -68,7 +68,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/devtube.dev-wiki.de\/videos\/embed\/c42aa44c-58df-42e7-813a-204fa0628215"
+                 "value":"https:\/\/devtube.dev-wiki.de\/videos\/watch\/c42aa44c-58df-42e7-813a-204fa0628215?loop=1&autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
