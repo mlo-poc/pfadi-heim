@@ -77,9 +77,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/mlo-poc.github.io\/pfadi-heim\/lagerplatz.json#jurte2Entry"
+                 "value":"lagerplatz.json#jurte2Entry"
                 }],
          "type":"tilelayer",
          "visible":true,
