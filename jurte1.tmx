@@ -420,7 +420,7 @@
  </layer>
  <layer id="7" name="ausgang" width="32" height="32" locked="1">
   <properties>
-   <property name="exitUrl" value="https://play.workadventu.re/_/global/mlo-poc.github.io/pfadi-heim/lagerplatz.json#jurte1Entry"/>
+   <property name="exitSceneUrl" value="lagerplatz.json#jurte1Entry"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
