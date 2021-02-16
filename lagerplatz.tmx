@@ -2254,7 +2254,7 @@
  </layer>
  <layer id="21" name="bowtruckle" width="100" height="100" locked="1">
   <properties>
-   <property name="embedVideo" value="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffantasticbeastsmovie%2Fvideos%2F293914978252426%2F&amp;show_text=0&amp;width=476"/>
+   <property name="openWebsite" value="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ffantasticbeastsmovie%2Fvideos%2F293914978252426%2F&amp;show_text=0&amp;width=476"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
