@@ -1196,6 +1196,11 @@
    <properties>
     <property name="collides" type="bool" value="true"/>
    </properties>
+   <objectgroup draworder="index" id="3">
+    <object id="3" x="2.60541" y="9.11893" width="16.563" height="19.9128">
+     <ellipse/>
+    </object>
+   </objectgroup>
   </tile>
   <tile id="42">
    <properties>
