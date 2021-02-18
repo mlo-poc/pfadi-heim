@@ -212,7 +212,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/devtube.dev-wiki.de\/videos\/embed\/40f36ce4-8f20-4524-a63e-eaf034b159e3?autoplay=1&title=0&warningTitle=0&controls=0&peertubeLink=0"
+                 "value":"https:\/\/devtube.dev-wiki.de\/videos\/embed\/40f36ce4-8f20-4524-a63e-eaf034b159e3?loop=1&autoplay=1&title=0&warningTitle=0&controls=1&peertubeLink=1\n\n<iframe width=\"560\" height=\"315\" sandbox=\"allow-same-origin allow-scripts allow-popups\" src=\"https:\/\/devtube.dev-wiki.de\/videos\/embed\/40f36ce4-8f20-4524-a63e-eaf034b159e3?loop=1&autoplay=1&title=0&warningTitle=0&controls=0\" frameborder=\"0\" allowfullscreen><\/iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
