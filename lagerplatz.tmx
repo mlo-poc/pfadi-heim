@@ -3530,6 +3530,7 @@
  <layer id="23" name="plink" width="100" height="100" locked="1">
   <properties>
    <property name="openWebsite" value="http://dinahmoelabs.com/_plink/"/>
+   <property name="openWebsitePolicy" value="fullscreen"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
