@@ -297,6 +297,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"http:\/\/dinahmoelabs.com\/_plink\/"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -2637,15 +2642,15 @@
                      "objects":[
                             {
                              "ellipse":true,
-                             "height":19.9127653387613,
+                             "height":19.9128,
                              "id":3,
                              "name":"",
                              "rotation":0,
                              "type":"",
                              "visible":true,
-                             "width":16.562954347194,
-                             "x":2.6054085489968,
-                             "y":9.1189299214888
+                             "width":16.563,
+                             "x":2.60541,
+                             "y":9.11893
                             }],
                      "opacity":1,
                      "type":"objectgroup",
