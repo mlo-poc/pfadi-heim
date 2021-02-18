@@ -212,7 +212,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/devtube.dev-wiki.de\/videos\/embed\/40f36ce4-8f20-4524-a63e-eaf034b159e3?loop=1&autoplay=1&title=0&warningTitle=0&controls=1&peertubeLink=1"
+                 "value":"https:\/\/devtube.dev-wiki.de\/videos\/embed\/40f36ce4-8f20-4524-a63e-eaf034b159e3?autoplay=1&title=0&warningTitle=0&controls=1&peertubeLink=1"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
