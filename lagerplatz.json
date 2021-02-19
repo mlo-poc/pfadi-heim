@@ -38,7 +38,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/skribbl.io\/?X3c55AkChY15"
+                 "value":"https:\/\/scribblers-official.herokuapp.com\/ssrEnterLobby?lobby_id=d1304e0f-6a5b-4150-a432-4ea4b8b5e63d"
                 }],
          "type":"tilelayer",
          "visible":true,
