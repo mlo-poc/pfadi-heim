@@ -38,7 +38,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"lagertor.html"
+                 "value":"https:\/\/mlo-poc.github.io\/pfadi-heim\/lagertor.html"
                 }],
          "type":"tilelayer",
          "visible":true,
