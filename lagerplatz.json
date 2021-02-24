@@ -140,7 +140,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.wooclap.com\/YAJMIB"
+                 "value":"https:\/\/app.wooclap.com\/YAJMIB"
                 }],
          "type":"tilelayer",
          "visible":true,
