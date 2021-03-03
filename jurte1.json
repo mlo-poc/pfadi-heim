@@ -21,6 +21,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jurte1"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
