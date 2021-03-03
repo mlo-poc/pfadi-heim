@@ -23,7 +23,7 @@
                  "value":"http:\/\/poc.im:9666\/spaces\/05ab0b24-1e16-4767-8f32-2c510e6ee431?spaceAuth=04c719b"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -41,7 +41,7 @@
                  "value":"https:\/\/mlo-poc.github.io\/pfadi-heim\/lagertor.html"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -56,10 +56,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/scribblers-official.herokuapp.com\/ssrEnterLobby?lobby_id=f3a981ff-dc52-4980-a49b-8380963c960e"
+                 "value":"https:\/\/garticphone.com\/de\/?c=10236aa08"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -71,7 +71,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -89,7 +89,7 @@
                  "value":"https:\/\/devtube.dev-wiki.de\/videos\/watch\/c42aa44c-58df-42e7-813a-204fa0628215?loop=1&autoplay=1"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -143,7 +143,7 @@
                  "value":"jurte2.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -161,7 +161,7 @@
                  "value":"https:\/\/app.wooclap.com\/YAJMIB"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
                  "value":"https:\/\/einstiegh5p.de\/h5p\/embed\/14575"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -197,7 +197,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -215,7 +215,7 @@
                  "value":"jurte1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -233,7 +233,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -251,7 +251,7 @@
                  "value":"https:\/\/wbo.ophir.dev\/boards\/POC"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -269,7 +269,7 @@
                  "value":"https:\/\/zumpad.zum.de\/p\/StammPaulusOstercappeln"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
                  "value":"fullscreen"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -316,7 +316,7 @@
          "name":"logs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -334,7 +334,7 @@
                  "value":"Meeresrauschen.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -346,7 +346,7 @@
          "name":"feuer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -358,7 +358,7 @@
          "name":"au-charas",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -381,7 +381,7 @@
                  "value":"fullscreen"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -393,7 +393,7 @@
          "name":"objects",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -424,7 +424,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -435,7 +435,7 @@
          "name":"jurtendaecher",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -447,7 +447,7 @@
          "name":"verstecke",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -459,7 +459,7 @@
          "name":"lagertor_sichtbar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
