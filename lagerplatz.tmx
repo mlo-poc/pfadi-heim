@@ -2044,7 +2044,7 @@
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 </data>
  </layer>
- <layer id="29" name="JitsiScriblio" width="100" height="100">
+ <layer id="29" name="JitsiScriblio" width="100" height="100" locked="1">
   <properties>
    <property name="jitstRoom" value="scriblio"/>
   </properties>
@@ -3220,7 +3220,7 @@
  </layer>
  <layer id="10" name="schwarzes-brett" width="100" height="100" locked="1">
   <properties>
-   <property name="openWebsite" value="https://wbo.ophir.dev/boards/POC"/>
+   <property name="openWebsite" value="https://cryptpad.ccc-ch.ch/whiteboard/#/2/whiteboard/edit/axq4M+V6WlMXO6GfCVOAjw9h/embed/"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
