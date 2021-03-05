@@ -266,7 +266,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wbo.ophir.dev\/boards\/POC"
+                 "value":"https:\/\/cryptpad.ccc-ch.ch\/whiteboard\/#\/2\/whiteboard\/edit\/axq4M+V6WlMXO6GfCVOAjw9h\/embed\/"
                 }],
          "type":"tilelayer",
          "visible":true,
